@@ -73,7 +73,7 @@ export const portfolio = [
         images: ['https://res.cloudinary.com/dk9buau62/image/upload/v1747927718/Screenshot_2025-05-22_205610_qroosr.png', 'https://res.cloudinary.com/dk9buau62/image/upload/v1747927718/Screenshot_2025-05-22_205632_rigxgs.png','https://res.cloudinary.com/dk9buau62/image/upload/v1747927718/Screenshot_2025-05-22_205658_kqpa9h.png','https://res.cloudinary.com/dk9buau62/image/upload/v1747927718/Screenshot_2025-05-22_205800_snqf9k.png','https://res.cloudinary.com/dk9buau62/image/upload/v1747927717/Screenshot_2025-05-22_205740_wsgtlb.png','https://res.cloudinary.com/dk9buau62/image/upload/v1747927718/Screenshot_2025-05-22_205815_xibtei.png','https://res.cloudinary.com/dk9buau62/image/upload/v1747927719/Screenshot_2025-05-22_205722_rtmk9q.png'],
         projectdesc: 'Clone of Swiggy with end-to-end flow: login, browse, cart, checkout. Used JWT for auth and Express sessions',
         techstack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', "Tailwind CSS"],
-        livelink: 'https://fullstack-app-frontend-hkfc.onrender.com/order',
+        livelink: 'https://fullstack-app-frontend-hkfc.onrender.com',
         status: 'Completed',
         type: 'Full Stack Web Development'
     },
