@@ -20,7 +20,7 @@ function Resume() {
                             </div>
                             <h2 className="text-2xl font-bold ml-6">Education</h2>
                         </div>
-                        <a href="https://drive.google.com/file/d/1uckyTgil-UTtkfg5k3Re_skNJRhzhAH0/view?usp=sharing" className="flex items-center gap-3" download>
+                        <a href="https://drive.google.com/file/d/1ht7ueH4o83r6MuZYSRu-R1QjtDBhqkaM/view?usp=sharing" className="flex items-center gap-3" download>
                             <HiOutlineFolderDownload className="text-3xl md:text-base" />
                             <span className="hidden md:block">Download Resume</span>
                         </a>
