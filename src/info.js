@@ -181,10 +181,10 @@ export const resume = {
     ],
     experience: [
         {
-            company: "Alstom Transport India Limited",
-            role: "Engineer Trainee",
-            duration: "Nov 2021 - Nov 2022",
-            location:"Sricity"
+            company: "Zithara.AI",
+            role: "Junior Full Stack Developer",
+            duration: "Jun 2025 - Present",
+            location:"Hyderabad" 
         },
         {
             company: "Medha Servo Drives",
@@ -192,7 +192,12 @@ export const resume = {
             duration: "Mar 2023 - Sep 2024",
             location:"Remote"
         },
-
+        {
+            company: "Alstom Transport India Limited",
+            role: "Engineer Trainee",
+            duration: "Nov 2021 - Nov 2022",
+            location:"Sricity"
+        }
     ],
  skills :[
     {
